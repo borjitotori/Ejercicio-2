@@ -1,12 +1,12 @@
 img {
 	display: block;
-	height: 100;
-	width: 300;
+	height: 100px;
+	width: 300px;
 	margin: auto;
 }
 
 p {
 	text-align: center;
 	font-family: Garamond, serif;
-	font-size: 18;
+	font-size: 18px;
 }
