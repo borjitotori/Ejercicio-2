@@ -10,3 +10,10 @@ p {
 	font-family: Garamond, serif;
 	font-size: 18px;
 }
+
+div {
+	height: 50px;
+	widht: 50px;
+	background-color: blue;
+	border-color: red;
+}
